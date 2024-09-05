@@ -35,3 +35,4 @@ define Package/nhxweb/install
 endef
 
 $(eval $(call BuildPackage,nhxweb))
+
